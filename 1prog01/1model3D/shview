@@ -1,0 +1,15 @@
+suaddhead n1=100 <C11.ad | sushw key=dt a=100 |
+suwind min=101 max=200 | suximage 
+
+suaddhead n1=100 <C33.ad | sushw key=dt a=100 |
+suwind min=101 max=200 | suximage 
+
+suaddhead n1=100 <C44.ad | sushw key=dt a=100 |
+suwind min=101 max=200 | suximage 
+
+suaddhead n1=100 <C13.ad | sushw key=dt a=100 |
+suwind min=101 max=200 | suximage 
+
+suaddhead n1=100 <rhox.ad | sushw key=dt a=100 |
+suwind min=101 max=200 | suximage 
+

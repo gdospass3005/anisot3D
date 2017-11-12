@@ -1,0 +1,4 @@
+cd compila
+rm *
+cp ../*.f90 .
+f90 -o model3d *.f90

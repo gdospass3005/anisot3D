@@ -1,0 +1,21 @@
+100
+100
+100
+70 
+1.613
+7.419
+1.120
+7.419
+0.499
+3.330
+0.1757
+0.759
+1560.
+2485.
+0.499
+3.330
+
+ Nx,Ny,Nz,' = grid size in x,y and z'
+ Io,' = depth of the plane interface in grid units'
+ d1,d2,' = layers'
+

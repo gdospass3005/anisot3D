@@ -1,0 +1,11 @@
+cd compila
+rm -rf *
+cp ../*.f90 .
+f90 -o anisot *.f90
+
+#cd /scr14/test
+#rm -rf *
+#cp ~/3anisot/codes/compila/anisot .
+#cp ~/3anisot/codes/shmovie .
+
+#anisot

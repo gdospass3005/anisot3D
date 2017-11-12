@@ -1,0 +1,27 @@
+Nx         12
+Ny         12
+Nz         12
+dx         2.
+dt         0.0002
+fpeak      50.
+itmax      30
+lx         6
+ly         6
+lz         6
+r          4.
+nb         50
+F          0.002
+fsf        0
+nphones    1
+npmin_x    10
+npmin_y    6
+npmin_z    6
+dnp_x      1
+dnp_y      0
+dnp_z      0
+nsnaps     15
+snapmin    2
+dsnap      2
+iy_snap    6
+
+
